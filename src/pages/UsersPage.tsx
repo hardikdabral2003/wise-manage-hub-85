@@ -7,6 +7,7 @@ import UserEditModal from '@/components/UserEditModal';
 import UserDeleteDialog from '@/components/UserDeleteDialog';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
+import { Card } from '@/components/ui/card';
 import { User, UserResponse, UpdateUserData } from '@/types';
 import { toast } from 'sonner';
 import { Search, ChevronLeft, ChevronRight, Users, LayoutGrid, LayoutList } from 'lucide-react';
